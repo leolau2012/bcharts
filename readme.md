@@ -17,6 +17,7 @@ bchart 什么工具都没用，纯手写，压缩使用在线的https://jscompre
 第二个目的：
 
 一直有学生不知道怎么给团队写readme文档，然后就有了这个文档。
+=================================以下是他山之石，被我借鉴过来的================================
 
 该文件用来测试和展示书写README的各种markdown语法。GitHub的markdown语法在标准的markdown语法基础上做了扩充，称之为`GitHub Flavored Markdown`。简称`GFM`，GFM在GitHub上有广泛应用，除了README文件外，issues和wiki均支持markdown语法。
 
